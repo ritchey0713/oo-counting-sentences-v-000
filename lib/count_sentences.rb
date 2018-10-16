@@ -22,6 +22,8 @@ class String
   #   end
   
   def count_sentences
+    counter = 0 
+    
     
   end 
   end
